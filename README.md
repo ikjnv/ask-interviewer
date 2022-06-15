@@ -1,6 +1,6 @@
-* Questions to ask the interviewer
+# Questions to ask the interviewer
 
-** The Role
+## The Role
    1. Can you tell me more about the day-to-day responsibilities of this job?
       - What are the daily tasks I would do?
       - Can you walk me through a typical day?
@@ -11,7 +11,7 @@
    5. Can you show me examples of projects I would be working on?
 
 
-** Technology
+## Technology
    1. What are the usual stacks used at the company?
       - Do you use open source?
       - Do you contribute to FOSS?
@@ -23,7 +23,7 @@
    6. Can developers choose their own Machine/OS/Editor?
 
 
-** The Team/Working experience/Zen
+## The Team/Working experience/Zen
    1. How does my team look like?
       - How big is my team going to be?
       - How is it structured?
@@ -46,7 +46,7 @@
        - What is the payment for extra hours?
 
 
-** Coworkers/Bosses
+## Coworkers/Bosses
    1. What role will I fill in the team?
    2. Who will I work with most closely?
    3. Who will I report to?
@@ -57,7 +57,7 @@
    8. What would you change if you could at this company?
 
 
-** Drama/Circlejerk
+## Drama/Circlejerk
    1. What happens when the team is under pressure and commits to work over their capacity / velocity?
    2. What happens when the team misses a release target?
    3. How are differences of opinions resolved?
@@ -65,7 +65,7 @@
    5. What do you think are the most rewarding or gratifying aspects of working in this position?
 
 
-** Company/Business
+## Company/Business
    1. Why are you hiring? Is it because:
       - the company grew,
       - are there new projects,
@@ -83,7 +83,7 @@
    11. What have you identified as your competitive advantage?
 
 
-** FUD
+## FUD
    1. Has anyone failed in this position?
       - If so, why?
    2. Is there anything about my background or resume that makes you question whether I am a good fit for this role
